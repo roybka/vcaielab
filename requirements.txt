@@ -1,0 +1,9 @@
+python-telegram-bot
+openai
+duckduckgo-search
+lancedb
+numpy
+pandas
+google-generativeai
+phidata
+pypdf
