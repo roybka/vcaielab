@@ -20,7 +20,7 @@ from utils import gchat, get_agent_response, MessageHistory, start
 
 
 
-bot_token = '7888726289:AAG0F9b-PHfBtYNgMW1G-WUc_D2cticoKogfdafsd'
+bot_token = ''
 knowledge_base_path = '' # path to a folder containing the knowledge base pdfs (empty = no knowledge base)
 bot_name = 'rachel'
 

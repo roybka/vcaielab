@@ -21,9 +21,9 @@ bot2_name = 'Nick'
 moderator_name = 'Modi'
 
 TOKENS = {
-    bot1_name: "7614188056:AAFRTfLhNU6dtdzyfp9mdAHNE8i-ltkQYoM1",
-    bot2_name: '8051358213:AAGlKfLd8dbE_v_jklIsDVbj8jGPSPoy4qo2',
-    moderator_name: '7618558948:AAEAhPkeDZHVR8UaPr0_5ASpM5z_IfftKxo4',
+    bot1_name: "",
+    bot2_name: "",
+    moderator_name: "",
 }
 
 
